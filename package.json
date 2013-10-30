@@ -1,0 +1,15 @@
+{
+  "name": "crossdomain-app",
+  "version": "0.0.1",
+  "repository": "https://github.com/segmentio/crossdomain-app.git",
+  "author": "friends@segment.io",
+  "dependencies": {
+    "crossdomain": "0.0.1",
+    "express": "~3.4.4"
+  },
+  "devDependencies": {
+    "supertest": "~0.8.1",
+    "mocha": "~1.13.0"
+  },
+  "main": "lib/index.js"
+}
