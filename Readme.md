@@ -4,7 +4,7 @@
 
 ## Installation
 
-    $ npm install segmentio/crossdomain-app
+    $ npm install crossdomain-app
 
 ## Example
 
